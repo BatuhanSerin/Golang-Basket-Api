@@ -1,0 +1,26 @@
+ServerConfig:
+  AppVersion: 1.0.0
+  Mode: Development
+  RoutePrefix: /api/v1/store-api
+  Debug: false
+  Port: 8080
+  TimeoutSecs: 60
+  ReadTimeoutSecs: 60
+  WriteTimeoutSecs: 12
+
+JWTConfig:
+  SessionTime: 3600
+  SecretKey: secretKey
+
+DatabaseConfig:
+  DataSourceName: postgres://postgres:postgres@localhost:5432/postgres?sslmode=disable
+  Name: postgres
+  MaxOpen: 50
+  MaxIdle: 50
+  MaxLifetime: 5
+
+
+Logger:
+  Development: true
+  Encoding: json
+  Level: error

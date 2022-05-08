@@ -1,0 +1,33 @@
+Id,Name,Price,Stock,Category_Id
+1,Web Camera,33.99,4,1
+2,DisplayPort Cable,12.74,14,1
+3,Apple AirPods Pro,154,20,1
+4,Anker Magnetic Wireless Charger,15.99,34,1
+5,Samsung Galaxy Watch,209.99,10,1
+6,AquaOasis Humidifiers,29.95,5,2
+7,Coredy Robot Vacuum Cleaner,209.99,5,2
+8,Velvet Hangers,24.06,32,2
+9,Blanket for couch,12.74,14,2
+10,Comfort Pillow,15.06,24,2
+11,Mini Fridge,39.94,16,2
+12,Water Bottle,12.24,36,3
+13,Knee Brace,16.99,40,3
+14,AB Wheel Roller,25.47,22,3
+15,Pickleball Paddles,64.99,25,3
+16,Resistance Bands,11.04,46,3
+17,Monopoly,42.25,16,4
+18,Iron Man Flip Mask,14.99,23,4
+19,Elmo Plush Doll,11.99,34,4
+20,Cube Toy,9.99,26,4
+21,Bayblade,7.99,16,4
+22,Finger Puppet Board Book,6,11,5
+23,Bug Soup,11,15,5
+24,Formula 1 Car By Car,49.60,13,5
+25,Volkswagen Fastback and Squareback,68,7,5
+26,Vegan Meat Cookbook,8.40,15,5
+27,Tweezers Set,7.99,20,6
+28,Spiral Hair Ties,5.15,40,6
+29,Mirror With Light,17.84,24,6
+30,Tongue Scraper,7.64,30,6
+31,Shower Steamers,21.24,50,6
+32,Eyelash Curler,8.41,26,6
